@@ -6,7 +6,7 @@
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blancry-havik&show_icons=true&locale=en&layout=compact" alt="blancry-havik" />
+<a href="https://github.com/blancry-havik/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blancry-havik&layout=compact&theme=buefy&hide_border=true" /></a>
 </p>
 
 <p>&nbsp;
